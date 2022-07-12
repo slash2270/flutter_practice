@@ -1,0 +1,22 @@
+{
+  "@@last_modified": "2018-12-10T15:46:20.897228",
+  "@@locale":"zh_TW",
+  "title": "Flutter 應用",
+  "@title": {
+    "description": "Title for the Demo application",
+    "type": "text",
+    "placeholders": {}
+  },
+  "First": "第一頁",
+  "language": "Currently Using Chinese",
+  "start_searching_for_attached_bluetooth_devices": "開始搜索附近的藍牙設備",
+  "stop_searching_for_attached_bluetooth_devices": "開始搜索附近的藍牙設備",
+  "ble_connecting": "正在連接藍牙...",
+  "ble_disconnet_connecting": "藍牙連接斷開，正在重新連接藍牙...",
+  "connect_time_out_check_whether_ble_is_turned_on": "藍牙連接超時，請檢查藍牙是否打開",
+  "please_input_order": "請輸入命令",
+  "send": "發送",
+  "set_write_characteristics":"設置寫特徵值(單選)",
+  "set_notify_characteristics": "設置通知特徵值（多選）",
+  "all_service_and_characteristics": "所有的服務及其子特徵值"
+}

@@ -1,0 +1,10 @@
+{
+  "severity": "INFO",
+  "logging.googleapis.com/labels": {"firebase-log-type": "callable-request-verification"},
+  "jsonPayload": {
+    "message": "Callable header verifications passed.",
+    "verifications": {
+      "app": "MISSING"
+    }
+  }
+}
